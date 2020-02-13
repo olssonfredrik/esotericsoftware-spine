@@ -1,0 +1,14 @@
+{
+	"name": "esotericsoftware-spine",
+	"version": "3.8.0",
+	"description": "Package of the Spine core runtime.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/olssonfredrik/esotericsoftware-spine"
+	},
+	"author": "Esoteric Software",
+	"license": "All rights reserved",
+	"private": true,
+	"main": "./lib/spine-core.js",
+	"types": "./lib/spine-core.d.ts"
+}
